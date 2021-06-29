@@ -1,0 +1,52 @@
+body{
+  background-color: #eee;
+}
+
+.heading{
+  width: 100%;
+  text-align: center;
+}
+
+.hero-image{
+  width: 100%;
+  text-align: center;
+  background-color: #fff;
+}
+
+.hero-image img{
+  width:70vw;
+}
+
+.hero-image{
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.description{
+  width: 100%;
+}
+
+.description .timeline{
+  width: 50vw;
+  margin: auto;
+  padding: 40px 0;
+}
+
+.description .timeline li{
+  padding-bottom: 15px;
+}
+
+.quote{
+  width: 50vw;
+  margin: auto;
+  color: #5c5c5c;
+  padding-bottom: 20px;
+}
+
+a{
+  color: #52a7e7;
+}
+
+a:hover, a:visited {
+  color: #0073b1;
+}
